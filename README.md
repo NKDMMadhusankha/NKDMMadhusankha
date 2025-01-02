@@ -1,9 +1,12 @@
-
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <h1 align="center">Hello There!, I'm Mithila Madhusankha</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 
+
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+ <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithila&label=Profile%20views&color=0e75b6&style=flat" alt="mithila" /> </p>
 
@@ -12,6 +15,7 @@
 - 📫 How to reach me **mithilamadhusankha@gmail.com**
 
 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/madhusankha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madhusankha_" height="30" width="40" /></a>
