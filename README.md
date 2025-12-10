@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/madhusankha_" target="blank"><img src="https://img.shields.io/twitter/follow/madhusankha_?logo=twitter&style=for-the-badge" alt="madhusankha_" /></a> </p>
 
-- 📫 How to reach me **mithilamadhusankha@gmail.com**
+📫 How to reach me **mithilamadhusankha@gmail.com**
 
 
  
